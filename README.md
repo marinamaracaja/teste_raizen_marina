@@ -92,25 +92,30 @@ Para executar o projeto via Docker, deve-se:
 git clone https://github.com/marinamaracaja/teste_raizen_marina.git
 
 - Upar o arquivo do airflow bem como todas as pastas do projeto e na pasta raíz "airflow docker" rodar via terminal os seguintes comandos:
+```
 docker-compose up airflow-init
+```
+```
 docker-compose up
-
+```
 - Acessar no navegador web:
 http://localhost:8080/
 
 - Buscar a DAG: marina_teste_raizen
-Executar o fluxo de tarefas.
+- Executar o fluxo de tarefas.
 
 ## Possíveis melhorias:
 - Tornar o código reaproveitável para outros projetos;
-- Otimizar o processamento do fluxo visando economia de recursos de máquina;
+- Otimizar o processamento do fluxo visando economia de recursos de máquina.
 
 ## Conclusão:
-Trabalhar com Airflow e Docker foi desafiador uma vez que este foi meu primeiro contato com a ferramenta, mas sei que é através de desafios que conseguimos evoluir e encontrar caminhos e soluções para crescer nos estudos e profissionalmente.
-
-
-
-
+Trabalhar com Airflow e Docker foi desafiador, uma vez que este foi meu primeiro contato com a ferramenta, mas sei que é através de desafios que conseguimos evoluir e encontrar caminhos e soluções para crescer nos estudos e profissionalmente. 
+##
 
 ### Autora:
 [Marina Maracajá](https://www.linkedin.com/in/marinamaracaja/)
+
+##
+<img align="right" alt="grogu" height="50" style="border-radius:50px;" src="https://logodownload.org/wp-content/uploads/2014/06/raizen-logo-1.png">
+
+
