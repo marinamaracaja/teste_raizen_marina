@@ -116,6 +116,6 @@ Trabalhar com Airflow e Docker foi desafiador, uma vez que este foi meu primeiro
 [Marina Maracajá](https://www.linkedin.com/in/marinamaracaja/)
 
 ##
-<img align="right" alt="grogu" height="50" style="border-radius:50px;" src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/home/header-logo.svg">
+<img align="right" alt="grogu" height="50" style="border-radius:50px;" src="https://logodownload.org/wp-content/uploads/2014/06/raizen-logo-1.png">
 
 
